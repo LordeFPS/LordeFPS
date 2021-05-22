@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  [![Lorde](https://github-readme-stats.vercel.app/api?username=lordefps&theme=dark)](https://github.com/lordefps/)
-  [![Lorde](https://github-readme-stats.vercel.app/api/top-langs/?username=lordefps&hide=html&layout=compact&theme=dark)](https://github.com/lordefps/)
+  <a href="https://github.com/lordefps">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordefps&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordefps&hide=html&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+
+
