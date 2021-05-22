@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Lorde](https://github-readme-stats.vercel.app/api?username=lordefps&theme=dark)](https://github.com/lordefps/)
-
-[![Lorde](https://github-readme-stats.vercel.app/api/top-langs/?username=lordefps&hide=html&layout=compact&theme=dark)](https://github.com/lordefps/)
+<div>
+  [![Lorde](https://github-readme-stats.vercel.app/api?username=lordefps&theme=dark)](https://github.com/lordefps/)
+  [![Lorde](https://github-readme-stats.vercel.app/api/top-langs/?username=lordefps&hide=html&layout=compact&theme=dark)](https://github.com/lordefps/)
+</div>
