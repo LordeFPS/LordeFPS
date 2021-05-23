@@ -19,7 +19,7 @@
   
   Estudande na áre de programação, procurando oportunidades no mercado.<br/>
 
-  Eu sou desenvolvedor iniciante em Python.
+  Sou desenvolvedor iniciante em Python.
   
   
 </p>
