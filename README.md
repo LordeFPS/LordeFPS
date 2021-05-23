@@ -1,5 +1,6 @@
 ### Me chamo Gabriel Botão 👋
 
+#### Aspiranto da tecnologia, sempre procurado novas oportunidad
 
 <div>
   <a href="https://github.com/lordefps">
@@ -13,7 +14,6 @@
   <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
   </a>
 </div>
-#### Aspiranto da tecnologia, sempre procurado novas oportunidades
 
 <p>
   Estudande na áre de programação, procurando oportunidades no mercado.<br/>
