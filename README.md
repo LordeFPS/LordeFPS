@@ -5,6 +5,10 @@
 </div>
   
 #### Aspiranto da tecnologia, sempre procurado novas oportunidades
+<div>
+  <a href="https://github.com/lordefps">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel&color=f8efd4&style=for-the-badge&logo=GitHub">
+</div>
 
 <p>
   Estudande na áre de programação, procurando oportunidades no mercado.<br/>
