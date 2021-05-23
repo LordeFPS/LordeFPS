@@ -1,12 +1,5 @@
 ### Me chamo Gabriel Botão 👋
-#### Aspiranto da tecnologia, sempre procurado novas oportunidades
 
-<p>
-  Estudande na áre de programação, procurando oportunidades no mercado.<br/>
-
-  Eu sou desenvolvedor iniciante em Python.
-</p>
-<hr>
 
 <div>
   <a href="https://github.com/lordefps">
@@ -15,18 +8,16 @@
   </a>
 </div>
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<div>
+  <a href="https://github.com/lordefps">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+  </a>
+</div>
+#### Aspiranto da tecnologia, sempre procurado novas oportunidades
 
-  
-[![Linkedin: Gabriel](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]("https://www.linkedin.com/in/gabriel-bot%C3%A3o-5aa6b817b/")
-[![Gmail Badge](https://img.shields.io/badge/-gabrielbotap@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:gabrielbotaoap@gmail.com)
-[![GitHub Gabriel](https://img.shields.io/github/followers/Gabriel?label=follow&style=social)]("https://github.com/lordefps")
+<p>
+  Estudande na áre de programação, procurando oportunidades no mercado.<br/>
+
+  Eu sou desenvolvedor iniciante em Python.
+</p>
+<hr>
