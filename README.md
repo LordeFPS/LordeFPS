@@ -4,7 +4,7 @@
 
 #### Aspiranto da tecnologia, sempre procurado novas oportunidades
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel&Botao&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel Botao&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
