@@ -7,7 +7,7 @@
   </a>
 </div>
 
-#### Aspiranto da tecnologia, sempre procurado novas oportunidas
+#### Aspirante da tecnologia, sempre procurado novas tecnologias
 
 <div>
   <a href="https://github.com/lordefps">
