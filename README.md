@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel&color=f8efd4&style=for-the-badge&logo=GitHub">
 </div>
 
-<p>
+<div>
+  <p>
+    Estudande na áre de programação, procurando oportunidades no mercado.<br/>
 
-Estudande na áre de programação, procurando oportunidades no mercado.<br/>
-
-Eu sou desenvolvedor iniciante em Python.
-
-</p>
+    Eu sou desenvolvedor iniciante em Python.
+  </p>
+</div>
 <hr>
