@@ -16,8 +16,11 @@
 </div>
 
 <p>
+  
   Estudande na áre de programação, procurando oportunidades no mercado.<br/>
 
   Eu sou desenvolvedor iniciante em Python.
+  
+  
 </p>
 <hr>
