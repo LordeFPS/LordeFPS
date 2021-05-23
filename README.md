@@ -4,7 +4,7 @@
 
 #### Aspiranto da tecnologia, sempre procurado novas oportunidades
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Gabrial&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
@@ -15,11 +15,5 @@ Eu sou desenvolvedor iniciante em Python.
 </p>
 <hr>
 
-
-<div>
-  <a href="https://github.com/lordefps">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordefps&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordefps&hide=html&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
 
 
