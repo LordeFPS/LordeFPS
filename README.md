@@ -11,7 +11,7 @@
 
 <div>
   <a href="https://github.com/lordefps">
-  <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel&color=f8efd4&style=for-the-badge&logo=GitHub">
   </a>
 </div>
 
