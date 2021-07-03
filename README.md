@@ -22,4 +22,4 @@
   Beginner python developer.
 </p>
 <hr>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=botaoap&hide=html&layout=compact&theme=default)](https://github.com/botaoap/)
+[![botaoap](https://github-readme-stats.vercel.app/api/top-langs/?username=botaoap&hide=html&layout=compact&theme=Dark)](https://github.com/botaoap/)
