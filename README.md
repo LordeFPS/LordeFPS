@@ -1,4 +1,4 @@
-### Me chamo Gabriel Botão 👋
+### My name is Gabriel Botão 👋
 
 <div>
   <a href="https://github.com/lordefps">
@@ -7,7 +7,7 @@
   </a>
 </div>
 
-#### Aspirante da tecnologia, sempre procurado novas tecnologias
+#### Technology lover, always looking for new technologies
 
 <div>
   <a href="https://github.com/botaoap">
@@ -17,10 +17,9 @@
 
 <p>
   
-  Estudande na áre de programação, procurando oportunidades no mercado.<br/>
+  Programming student, looking for opportunities in the market.<br/>
 
-  Desenvolvedor iniciante em Python.
-  
-  
+  Beginner python developer.
 </p>
 <hr>
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=botaoap&hide=html&layout=compact&theme=default)](https://github.com/botaoap/)
