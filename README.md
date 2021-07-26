@@ -19,7 +19,7 @@
   
   Programming student, looking for opportunities in the market.<br/>
 
-  Beginner python developer.
+  Mobile Developer.
 </p>
 <hr>
 
