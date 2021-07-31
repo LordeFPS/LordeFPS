@@ -19,7 +19,7 @@
   
   Programming student, looking for opportunities in the market.<br/>
 
-  Mobile Developer.
+  Mobile Developer Kotlin.
 </p>
 <hr>
 
