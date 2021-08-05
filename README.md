@@ -17,9 +17,8 @@
 
 <p>
   
-  Programming student, looking for opportunities in the market.<br/>
-
   Mobile Developer Kotlin.
+  
 </p>
 <hr>
 
