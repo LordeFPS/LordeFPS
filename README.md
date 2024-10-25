@@ -44,7 +44,7 @@
 
 
 [profile]: https://github.com/botaoap/
-[linkedin]: https://www.linkedin.com/in/gabriel-botão-5aa6b817b/
+[linkedin]: https://www.linkedin.com/in/gabriel-botao/
 [visualstudiocode]: https://code.visualstudio.com
 [jssite]: https://www.w3schools.com/js/DEFAULT.asp
 [python]: https://www.python.org
